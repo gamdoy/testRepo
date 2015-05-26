@@ -6,7 +6,7 @@ import java.util.Map;
 import com.mycom.member.exception.DuplicatedIdException;
 import com.mycom.member.vo.Member;
 
-public interface MemberService {
+public interface MemberService { 
 
 	/**
 	 * 가입 처리 메소드
